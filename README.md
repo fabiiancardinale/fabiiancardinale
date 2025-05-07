@@ -1,8 +1,20 @@
 # 👋 ¡Hola! Soy Fabian Aramis Sanchez Cardinale
 
-🎓 **Ingeniero Informático con especialidad en Ciencia de Datos**  
-💻 **Programador Full Stack** | 📊 **Data Analyst**  
-📍 Chile | 🌐 Apasionado por la tecnología, los datos y la automatización
+## 👨‍💻 Perfil Técnico
+
+```yaml
+carrera: "Ingeniero Informático"
+especialidad: "Ciencia de Datos"
+roles:
+  - "Desarrollador Full Stack"
+  - "Analista de Datos"
+ubicacion: "📍 Chile"
+intereses:
+  - "Tecnología"
+  - "Datos"
+  - "Automatización"
+pasion: "🌐 Resolver problemas reales con código limpio y soluciones escalables"
+```
 
 ---
 
